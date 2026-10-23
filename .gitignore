@@ -4,3 +4,4 @@ raw_download/
 __pycache__/
 .Rhistory
 .DS_Store
+data/cohort_rebuilt.db
