@@ -5,3 +5,4 @@ __pycache__/
 .Rhistory
 .DS_Store
 data/cohort_rebuilt.db
+data/cohort_rebuilt.db
