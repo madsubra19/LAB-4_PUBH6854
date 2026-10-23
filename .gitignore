@@ -1,0 +1,6 @@
+raw_download/
+*.tar.gz
+.ipynb_checkpoints/
+__pycache__/
+.Rhistory
+.DS_Store
