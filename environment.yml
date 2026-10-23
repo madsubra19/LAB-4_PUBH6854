@@ -1,0 +1,18 @@
+name: week09
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - bcftools
+  - h5py
+  - jupyterlab
+  - matplotlib
+  - pandas
+  - pyarrow
+  - pysam
+  - python=3.12
+  - python-duckdb
+  - requests
+  - samtools
+
+prefix: "/Users/madhansubramanian/.local/share/mamba/envs/week09"
